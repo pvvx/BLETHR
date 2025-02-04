@@ -11,7 +11,7 @@ LYWSD03MMC с прошивкой **BLETHR** принимает маяк от **�
 
 Прошить программу в Xiaomi LYWSD03MMC возможно с помощью [TelinkMiFlasher.html](https://pvvx.github.io/ATC_MiThermometer/TelinkMiFlasher.html).
 
-Файл прошивки **BLETHR**.
+[Файл прошивки **BLETHR**](https://github.com/pvvx/BLETHR/raw/refs/heads/master/blethr_v10.bin).
 
 Если в дальнейшем потребуется перепрошивка устройства на другую версию программы, тогда используйте [OTA Flasher](https://pvvx.github.io/ATC_MiThermometer/TelinkOTA.html).
 
