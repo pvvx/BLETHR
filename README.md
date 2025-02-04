@@ -5,7 +5,7 @@ Receiving and displaying data from an external thermometer [BTHome](https://btho
 
 ![img](https://raw.githubusercontent.com/pvvx/pvvx.github.io/refs/heads/master/blethr/img/blethr.jpg)
 
-LYWSD03MMC с прошивкой **BLETHR** принимает маяк от **термометром-датчиком** и отображает на экране.
+LYWSD03MMC с прошивкой **BLETHR** принимает маяк от **термометра-датчика** и отображает на экране.
 
 ## Прошивка
 
