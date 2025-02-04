@@ -1,8 +1,5 @@
 # BLETHR
-
-Репозиторий пока в процессе констукции...
-
-Receiving and displaying data from an external thermometer BTHome on Xiaomi LYWSD03MMC.
+Receiving and displaying data from an external thermometer [BTHome](https://bthome.io/) on Xiaomi LYWSD03MMC.
 
 Получение и отображение данных с внешнего термометра работающего в формате [BTHome](https://bthome.io/) на экране Xiaomi LYWSD03MMC.
 
