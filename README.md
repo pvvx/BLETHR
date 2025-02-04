@@ -44,3 +44,5 @@ LYWSD03MMC с прошивкой **BLETHR** принимает маяк от **�
 **BLETHR** дублирует принятые данные о температуре, влажности и уровню батареи в процентах полученные от **термометра-датчика**. Но передаваемое напряжение в милливольтах – это напряжение батареи BLETHR.
 
 ![img](https://raw.githubusercontent.com/pvvx/pvvx.github.io/refs/heads/master/blethr/img/ha_bthome.jpg)
+
+![foto_blethr.jpg](https://raw.githubusercontent.com/pvvx/pvvx.github.io/refs/heads/master/blethr/img/foto_blethr.jpg)
