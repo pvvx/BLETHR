@@ -71,3 +71,4 @@ Receiving and displaying data from an external thermometer operating in the [BTH
 Прыжки счета на много единиц говорят о потере связи и возобновлению поиска. Это особенно критично для долгой жизни батарейки.
 
 ![foto_blethr.jpg](https://raw.githubusercontent.com/pvvx/pvvx.github.io/refs/heads/master/blethr/img/foto_blethr.jpg)
+
