@@ -1,17 +1,26 @@
 # BLETHR
 Receiving and displaying data from an external thermometer operating in the [BTHome v2](https://bthome.io/) format on the display of another BLE thermometer.
 
+![foto_zy-zth02pro.jpg](https://raw.githubusercontent.com/pvvx/pvvx.github.io/refs/heads/master/blethr/img/zy-zth02pro.jpg)
+
 Получение и отображение данных с внешнего термометра работающего в формате [BTHome v2](https://bthome.io/) на экране другого BLE термометра.
 
 Программа настройки **BLETHR**: [blethr.html](https://pvvx.github.io/blethr/blethr.html).
 
-* Поддерживаемые модели для **BLETHR**: LYWSD03MMC, [LKTMZL02(TS0201_TZ3210_ncw88jfq)](https://pvvx.github.io/LKTMZL02/), [ZY-ZTH02Pro(TS0201_TZ3000_v1w2k9dd)](https://pvvx.github.io/ZY-ZTH02Pro)
+#### Поддерживаемые модели для **BLETHR**:
+* LYWSD03MMC
+* [LKTMZL02(TS0201_TZ3210_ncw88jfq)](https://pvvx.github.io/LKTMZL02/)
+* [ZY-ZTH02Pro(TS0201_TZ3000_v1w2k9dd)](https://pvvx.github.io/ZY-ZTH02Pro)
 
-* Поддерживаемые **термометры-датчики** - все из [ATC_MiThermometer](https://github.com/pvvx/ATC_MiThermometer), [THB2](https://github.com/pvvx/THB2), [BZdevice](https://github.com/pvvx/BZdevice) передающие температуру и влажность в формате BTHome v2.
+#### Поддерживаемые **термометры-датчики** - все передающие температуру и влажность в формате BTHome v2:
+* [ATC_MiThermometer](https://github.com/pvvx/ATC_MiThermometer)
+* [THB2](https://github.com/pvvx/THB2)
+* [BZdevice](https://github.com/pvvx/BZdevice)
 
+ 
 ## Описание
 
-Первая экспериментальная версия 1.0. Исходники пока не публикуются. Для этого требуется произвести наработку коэффициентов и алгоритмов синхронизации связи... Так же, возможно, что для дальнейшего уменьшения потребления от батареи будет необходимо встроить дополнительную опцию в прошивки датчиков...
+Исходники пока не публикуются. Для этого требуется произвести наработку коэффициентов и алгоритмов синхронизации связи... Так же, возможно, что для дальнейшего уменьшения потребления от батареи будет необходимо встроить дополнительную опцию в прошивки датчиков...
 
 ![img](https://raw.githubusercontent.com/pvvx/pvvx.github.io/refs/heads/master/blethr/img/blethr.jpg)
 
@@ -26,9 +35,9 @@ Receiving and displaying data from an external thermometer operating in the [BTH
 
 Прошить программу в поддерживаемый BLE термометр с экраном возможно с помощью [TelinkMiFlasher.html](https://pvvx.github.io/ATC_MiThermometer/TelinkMiFlasher.html).
 
-* [Файл прошивки **BLETHR** для LYWSD03MMC](https://github.com/pvvx/BLETHR/raw/refs/heads/master/ATC_bthr_v10.bin)
-* [Файл прошивки **BLETHR** для LKTMZL02](https://github.com/pvvx/BLETHR/raw/refs/heads/master/LKTMZL02_bthr_v10.bin)
-* [Файл прошивки **BLETHR** для ZY-ZTH02Pro](https://github.com/pvvx/BLETHR/raw/refs/heads/master/ZYZTH02P_bthr_v10.bin)
+* [Файл прошивки **BLETHR** для LYWSD03MMC](https://github.com/pvvx/BLETHR/raw/refs/heads/master/ATC_bthr_v11.bin)
+* [Файл прошивки **BLETHR** для LKTMZL02](https://github.com/pvvx/BLETHR/raw/refs/heads/master/LKTMZL02_bthr_v11.bin)
+* [Файл прошивки **BLETHR** для ZY-ZTH02Pro](https://github.com/pvvx/BLETHR/raw/refs/heads/master/ZYZTH02P_bthr_v11.bin)
 
 Если в дальнейшем потребуется перепрошивка устройства на другую версию программы, тогда используйте [OTA Flasher](https://pvvx.github.io/ATC_MiThermometer/TelinkOTA.html).
 
